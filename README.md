@@ -14,15 +14,23 @@ It prompts the user to enter a student's name and then displays their marks if f
 - Checks if the name exists in the dictionary.
 - Displays marks if found, otherwise shows "Student not found."
 
-2. listslice.py
-This script demonstrates list slicing and reversing in Python.
 
-Functionality:
+---
 
-Creates a list of numbers from 1 to 10.
+## **README for `listslice.py`**
+```markdown
+# List Slicing Example
 
-Extracts the first five elements using slicing.
+This script demonstrates how to:
+- Create a list of numbers from 1 to 10.
+- Extract the first five elements.
+- Reverse the extracted elements.
 
-Reverses the extracted slice.
+## Description
+- The script prints the original list.
+- It then slices the list to get the first five elements.
+- Finally, it reverses this slice and prints it.
 
-Prints the original list, the sliced list, and the reversed slice.
+## How to Run
+```bash
+python listslice.py
