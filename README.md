@@ -17,8 +17,6 @@ It prompts the user to enter a student's name and then displays their marks if f
 
 ---
 
-## **README for `listslice.py`**
-```markdown
 # List Slicing Example
 
 This script demonstrates how to:
@@ -30,7 +28,3 @@ This script demonstrates how to:
 - The script prints the original list.
 - It then slices the list to get the first five elements.
 - Finally, it reverses this slice and prints it.
-
-## How to Run
-```bash
-python listslice.py
